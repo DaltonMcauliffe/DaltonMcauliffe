@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Workout Journal**
 
-- 🌱 I’m currently learning **JavaScript,HTML,CSS,Ruby,Ruby on Rails, PostgreSQL**
+- 🌱 I’m currently learning **JavaScript,HTML,CSS,Ruby,Ruby on Rails, PostgreSQL, Storybook, Cypress, Rspec, Jest**
 
-- 💬 Ask me about **React,JavaScript,HTML,CSS**
+- 💬 Ask me about **React,JavaScript,HTML,CSS, Ruby, Rails, Docker, RuboCop, Cypress**
 
 - 📫 How to reach me **dalton.j.mcauliffe97@gmail.com**
 
